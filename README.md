@@ -16,8 +16,7 @@ Hi!  I work as a MERN stack developer. Self-motivated and quick learner, experie
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 
 
